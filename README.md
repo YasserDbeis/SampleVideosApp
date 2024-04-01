@@ -8,3 +8,5 @@
 5. Toggle between video formats
 
 **_This was made to serve as an example of how developers can AB test their application's power consumption._**
+
+Video (c) copyright Blender Foundation | www.bigbuckbunny.org
